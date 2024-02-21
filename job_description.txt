@@ -1,0 +1,11 @@
+Senior Full Stack Developer
+
+Bachelor’s degree in Computer Science, Engineering, or related field, or equivalent work experience
+Proven experience as a Full Stack Developer, with a portfolio showcasing completed projects
+Strong proficiency with Node.js, ReactJS, and React Native
+Experience with SQL and NoSQL databases, such as MySQL, MongoDB, and PostgreSQL
+Familiarity with front-end languages (e.g., HTML, CSS/SCSS, JavaScript, XML, jQuery) and API integration
+Understanding of server-side CSS preprocessors (e.g., LESS, SASS)
+Knowledge of code versioning tools, such as Git
+Excellent problem-solving skills and the ability to work independently on projects
+Strong organizational skills to manage multiple tasks within the constraints of timelines
